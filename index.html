@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Admission & Scholarship Checklist</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <main class="container">
+    <h1>Admission & Scholarship Checklist Generator</h1>
+    <p>Generate a simple checklist of documents and steps for your application.</p>
+
+    <form id="checklistForm">
+      <label>
+        Degree Level:
+        <select id="degree">
+          <option value="bs">BS</option>
+          <option value="ms">MS</option>
+        </select>
+      </label>
+
+      <label>
+        Application Type:
+        <select id="type">
+          <option value="admission">Admission</option>
+          <option value="scholarship">Scholarship</option>
+        </select>
+      </label>
+
+      <label>
+        Destination:
+        <select id="destination">
+          <option value="pakistan">Pakistan</option>
+          <option value="abroad">Abroad</option>
+        </select>
+      </label>
+
+      <button type="submit">Generate Checklist</button>
+    </form>
+
+    <section id="result" class="hidden">
+      <h2>Required Documents</h2>
+      <ul id="documents"></ul>
+
+      <h2>Suggested Timeline</h2>
+      <ul id="timeline"></ul>
+
+      <h2>Common Mistakes</h2>
+      <ul id="mistakes"></ul>
+
+      <p class="disclaimer" style="
+    color: #b00020; 
+    font-weight: bold; 
+    background-color: #ffe6e6; 
+    padding: 10px; 
+    border-left: 4px solid #b00020; 
+    border-radius: 4px;
+    margin-top: 20px;
+">
+  ⚠️ Requirements vary by institution. Always verify with official sources.
+</p>
+
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,229 @@
+{
+  "bs_admission_pakistan": {
+    "documents": [
+      "CNIC or B-Form",
+      "Passport-size photographs",
+      "Matric (SSC) certificate & marksheet",
+      "Intermediate (HSSC) certificate & marksheet",
+      "Character certificate",
+      "Migration certificate (if required)",
+      "Application form"
+    ],
+    "timeline": [
+      "6–12 months before: Research universities and eligibility",
+      "3–6 months before: Collect documents and prepare for entry tests",
+      "1–2 months before: Submit applications",
+      "After acceptance: Complete enrollment process"
+    ],
+    "mistakes": [
+      "Waiting for final result cards",
+      "Missing entry test deadlines",
+      "Submitting incomplete documents",
+      "Assuming all universities have the same requirements"
+    ]
+  },
+
+"bs_admission_abroad": {
+  "documents": [
+    "Passport (valid for entire study period)",
+    "CNIC or B-Form",
+    "Matric (SSC) certificate & marksheet",
+    "Intermediate (HSSC) certificate & marksheet",
+    "Academic transcripts (if issued separately)",
+    "Statement of Purpose / Personal Statement",
+    "Letters of Recommendation (if required)",
+    "Proof of English proficiency (IELTS / TOEFL, if required)",
+    "Application form (online)"
+  ],
+  "timeline": [
+    "12–18 months before intake: Research countries, universities, and eligibility requirements",
+    "9–12 months before intake: Prepare documents, shortlist universities, and plan for English tests",
+    "6–9 months before intake: Take required tests and start applications",
+    "3–6 months before intake: Submit applications and track responses",
+    "After acceptance: Apply for visa and complete enrollment steps"
+  ],
+  "mistakes": [
+    "Starting the process too late",
+    "Not checking country- or university-specific requirements",
+    "Ignoring English test preparation time",
+    "Submitting generic personal statements",
+    "Missing application or document upload deadlines"
+  ]
+},
+
+"bs_scholarship_pakistan": {
+  "documents": [
+    "CNIC or B-Form",
+    "Recent passport-size photographs",
+    "Matric (SSC) certificate & marksheet",
+    "Intermediate (HSSC) certificate & marksheet",
+    "Proof of admission or application (if required)",
+    "Income certificate or financial documents (if required)",
+    "Statement of Purpose / Personal Statement",
+    "Recommendation letter (if required)",
+    "Scholarship application form"
+  ],
+  "timeline": [
+    "6–12 months before deadline: Research available scholarships and eligibility criteria",
+    "3–6 months before deadline: Collect documents and prepare personal statement",
+    "1–2 months before deadline: Submit scholarship application",
+    "After shortlisting: Attend interviews or provide additional documents if requested"
+  ],
+  "mistakes": [
+    "Applying without meeting eligibility criteria",
+    "Missing income or financial proof requirements",
+    "Submitting weak or generic personal statements",
+    "Assuming admission guarantees a scholarship",
+    "Missing scholarship-specific deadlines"
+  ]
+},
+
+"bs_scholarship_abroad": {
+  "documents": [
+    "Passport",
+    "CNIC or B-Form",
+    "Matric (SSC) certificate & marksheet",
+    "Intermediate (HSSC) certificate & marksheet",
+    "Proof of admission or offer letter (if required)",
+    "Statement of Purpose / Personal Statement",
+    "Letters of Recommendation",
+    "Proof of English proficiency (IELTS / TOEFL, if required)",
+    "Financial documents (if required)",
+    "Scholarship application form"
+  ],
+  "timeline": [
+    "12–18 months before intake: Research international scholarships and eligibility criteria",
+    "9–12 months before intake: Prepare documents and personal statements",
+    "6–9 months before intake: Take required tests and apply for scholarships",
+    "3–6 months before intake: Track applications and respond to requests",
+    "After selection: Accept scholarship and proceed with visa process"
+  ],
+  "mistakes": [
+    "Missing early scholarship deadlines",
+    "Not tailoring personal statements to scholarship goals",
+    "Assuming admission guarantees funding",
+    "Ignoring country-specific requirements",
+    "Incomplete financial documentation"
+  ]
+},
+
+ "ms_admission_pakistan": {
+  "documents": [
+    "CNIC",
+    "Recent passport-size photographs",
+    "Bachelor’s degree certificate or provisional certificate",
+    "Bachelor’s transcripts (all semesters)",
+    "Transcript equivalence (if required)",
+    "Statement of Purpose / Research Interest Statement",
+    "Recommendation letters (if required)",
+    "Entry test score (GAT / university test, if required)",
+    "Application form"
+  ],
+  "timeline": [
+    "6–12 months before admission: Research universities, programs, and eligibility criteria",
+    "3–6 months before admission: Prepare documents and entry tests",
+    "1–2 months before admission: Submit applications and test results",
+    "After acceptance: Complete enrollment and verification steps"
+  ],
+  "mistakes": [
+    "Applying without meeting minimum GPA requirements",
+    "Ignoring department-specific requirements",
+    "Missing entry test registration deadlines",
+    "Submitting incomplete transcripts",
+    "Underestimating the importance of the SOP"
+  ]
+},
+
+"ms_admission_abroad": {
+  "documents": [
+    "Passport (valid for entire study period)",
+    "CNIC",
+    "Bachelor’s degree certificate or provisional certificate",
+    "Bachelor’s transcripts (all semesters)",
+    "Statement of Purpose / Research Proposal (if required)",
+    "Letters of Recommendation",
+    "Proof of English proficiency (IELTS / TOEFL, if required)",
+    "CV / Resume",
+    "Application form (online)"
+  ],
+  "timeline": [
+    "12–18 months before intake: Research programs, universities, and eligibility requirements",
+    "9–12 months before intake: Prepare documents, shortlist universities, and plan English tests",
+    "6–9 months before intake: Take required tests and begin applications",
+    "3–6 months before intake: Submit applications and track responses",
+    "After acceptance: Apply for visa and complete enrollment requirements"
+  ],
+  "mistakes": [
+    "Not aligning SOP or research interests with the program",
+    "Missing English test deadlines",
+    "Submitting weak or unfocused recommendation letters",
+    "Applying without meeting minimum GPA requirements",
+    "Underestimating application preparation time"
+  ]
+},
+
+"ms_scholarship_pakistan": {
+  "documents": [
+    "CNIC",
+    "Recent passport-size photographs",
+    "Bachelor’s degree certificate or provisional certificate",
+    "Bachelor’s transcripts",
+    "Proof of admission or application (if required)",
+    "Income certificate or financial documents (if required)",
+    "Statement of Purpose",
+    "Recommendation letters",
+    "Scholarship application form"
+  ],
+  "timeline": [
+    "6–12 months before deadline: Research local scholarship programs and eligibility",
+    "3–6 months before deadline: Collect documents and prepare SOP",
+    "1–2 months before deadline: Submit scholarship application",
+    "After shortlisting: Attend interviews or submit additional documents"
+  ],
+  "mistakes": [
+    "Assuming all scholarships have the same criteria",
+    "Ignoring income or merit thresholds",
+    "Weak or rushed SOP submissions",
+    "Applying without securing admission (if required)",
+    "Missing scholarship deadlines"
+  ]
+},
+  "ms_scholarship_abroad": {
+    "documents": [
+      "BS Transcript (official, complete)",
+      "BS Degree Certificate or Provisional Certificate (if in final year)",
+      "Course outlines / syllabus (sometimes required, especially for Europe)",
+      "GPA explanation or grading scale (if provided by university)",
+      "Statement of Purpose (SOP)",
+      "Personal Statement (required by some scholarships)",
+      "Academic CV (2–3 pages, education-focused)",
+      "Research proposal (only for thesis-based or research-track MS)",
+      "2–3 Letters of Recommendation",
+      "Preferably from professors or research supervisors",
+      "Must be on official letterhead, signed and dated",
+      "Passport (valid for at least 2 years)",
+      "CNIC copy",
+      "Passport-sized photographs (digital and physical)",
+      "Bank statement or financial proof (if required)",
+      "Sponsor affidavit (if applicable)",
+      "Scholarship-specific forms (varies by program)"
+    ],
+    "timeline": [
+      "12–18 months before intake: Research countries, universities, and scholarships; Understand eligibility requirements; Start drafting SOP",
+      "9–12 months before intake: Finalize shortlist of programs; Request recommendation letters; Prepare academic CV; Collect transcripts and provisional degree",
+      "6–9 months before intake: Submit scholarship applications; Submit university applications; Prepare for interviews (if applicable)",
+      "3–6 months before intake: Attend interviews; Wait for results; Prepare visa documents",
+      "1–3 months before intake: Accept offer; Finalize travel and accommodation; Prepare for departure"
+    ],
+    "mistakes": [
+      "Waiting for the final degree instead of using a provisional certificate",
+      "Not checking HEC recognition of the university",
+      "Assuming GPA conversion is the same everywhere",
+      "Applying late and missing scholarship deadlines",
+      "Submitting generic SOPs without tailoring",
+      "Not informing recommenders early",
+      "Ignoring document attestation timelines",
+      "Assuming scholarships remove all financial requirements"
+    ]
+  }
+}
